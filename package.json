@@ -1,0 +1,17 @@
+{
+  "name": "hey-office-google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Col Harris",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^1.0.4",
+    "aws-serverless-express": "^1.2.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
